@@ -1,0 +1,34 @@
+<svg width="651" height="608" viewBox="0 0 651 608" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Frame</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(193 215)">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -193 -215L 458 -215L 458 393L -193 393L -193 -215Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="Frame" clip-path="url(#clip-0)">
+<path d="M -193 -215L 458 -215L 458 393L -193 393L -193 -215Z" fill="#FFFFFF"/>
+<g id="Rectangle">
+<use xlink:href="#path0_fill" transform="translate(-117 70)" fill="#333333"/>
+</g>
+<g id="Rectangle 2">
+<use xlink:href="#path1_fill" transform="translate(238 -171)" fill="#4D2F2F"/>
+</g>
+<g id="Polygon">
+<use xlink:href="#path2_fill" transform="translate(-276 -137)" fill="#9B51E0"/>
+</g>
+<g id="Rectangle 3">
+<use xlink:href="#path3_fill" transform="translate(83 207)" fill="#705A5A"/>
+</g>
+<g id="Ellipse">
+<use xlink:href="#path4_fill" transform="translate(167 277)" fill="#C4C4C4"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 500 0L 500 300L 0 300L 0 0Z"/>
+<path id="path1_fill" d="M 0 0L 35 0L 35 151L 0 151L 0 0Z"/>
+<path id="path2_fill" d="M 395.313 7.38032C 403.507 2.79478 413.494 2.79478 421.687 7.38033L 671.933 147.439C 696.205 161.024 686.562 198 658.746 198L 158.253 198C 130.438 198 120.795 161.024 145.067 147.439L 395.313 7.38032Z"/>
+<path id="path3_fill" d="M 0 0L 100 0L 100 150L 0 150L 0 0Z"/>
+<path id="path4_fill" d="M 10 5C 10 7.76142 7.76142 10 5 10C 2.23858 10 0 7.76142 0 5C 0 2.23858 2.23858 0 5 0C 7.76142 0 10 2.23858 10 5Z"/>
+</defs>
+</svg>
